@@ -1,0 +1,102 @@
+body{
+    font-family: "Poppins", Arial, sans-serif;
+    
+    
+}
+h1{
+    background-color:#e8a57c;
+    color: black;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    font-style: italic;
+    text-align: center;
+    border: 3px solid #dd7b3f;
+    padding: 5px 5px;
+    border-left-width:15px 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+}
+.name{
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    margin-left: 3%;
+    width: 120px;
+    padding-top: 8px;
+    padding-right: 0px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    
+}
+.submitin{
+    border-radius: 10px;
+    background: white;
+    border-style: solid;
+    border-width: 3px;
+    margin-top: 5px;
+   
+    font-size: 15px;
+    width: 100px;
+    padding: 5px 10px;
+    color: black;
+    border-color: #e8a57c;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.sub{
+    border-radius: 10px;
+    background: white;
+    border-style: solid;
+    border-width: 3px;
+    margin-top: 5px;
+   
+    font-size: 15px;
+    width: 100px;
+    padding: 5px 10px;
+    color: black;
+    border-color: #e8a57c;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 10%;
+    margin-left: 3%;
+}
+
+
+.text{
+    padding:10px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    margin-right: 10%;
+    margin-left: 2%;
+}
+.menu{
+    
+    margin-right: 55%;
+    background-color:#e8a57c;
+    border-color: #e8a57c;
+}
+ul {
+    list-style-type: none;
+  }
+.lien {
+    
+    color: black;
+    text-decoration: none;
+    
+    
+} 
