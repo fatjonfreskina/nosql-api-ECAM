@@ -1,7 +1,8 @@
+require('dotenv').config()
+const { MongoClient } = require("mongodb");
 const { MongoClient } = require("mongodb");
 const {createRandomWorkout} = require('./createRandomWorkout');
-
-const uri = "<connection-string>"
+const mongoString = process.env.DATABASE_URL;
 
 const client = new MongoClient(uri);
 async function run() {
