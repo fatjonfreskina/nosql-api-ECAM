@@ -1,3 +1,2 @@
-- Refactoring ? 
-- User
+- User and jwt validation: https://thinkster.io/tutorials/node-json-api/creating-the-user-model
 - Il front end con React

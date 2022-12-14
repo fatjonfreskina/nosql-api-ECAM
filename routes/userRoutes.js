@@ -15,7 +15,6 @@ router.get('/getUser', async (req, res) => {
 })
 
 router.post('/postUser', async (req,res) =>{
-    res.json('Hello signup');
     const newUser = new userModel({
         username: req.body.username,
         email: req.body.email
