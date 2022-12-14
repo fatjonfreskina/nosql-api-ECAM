@@ -26,8 +26,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('front-end'));
 app.use(express.json());
 app.use("/api/workouts", workoutRoutes);
-app.use("/api/user", userRoutes
-);
+app.use("/api/user", userRoutes);
 
 app.listen(3000, () => {
     console.log(`Server Started at ${3000}`)
