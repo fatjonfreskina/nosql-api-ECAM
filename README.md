@@ -4,12 +4,6 @@
 
 Follow these instructions to run the application in your machine
 
-Link to the GitHub repo: [here](https://github.com/fatjonfreskina/Crossfit-api-mongodb) for a better syntax highlighting and full-access to the code base.
-
-Be aware that the connection string is provided in the zipped version uploaded on Claco, but not on GitHub for security reasons.
-
-In anycase, the password will be changed within 2 weeks from the submission of our project.
-
 ### Prerequisites
 
 Mandatory:
