@@ -20,8 +20,7 @@ Plus:
 1. Open a terminal and run `git clone https://github.com/fatjonfreskina/Crossfit-api-mongodb.git && cd Crossfit-api-mongodb` to clone the repo and enter it
 2. Open the `.env` file and modify the connection string: `DATABASE_URL = mongodb+srv://<username>:<password>@<cluster-name>.odldlhz.mongodb.net/crossfit` with your information.
 3. Install NPM packages with `npm install`
-4. Populate the database with fake data with `cd utils && node populateDatabase.js`
-5. Run the application with `npm start`
+4. Run the application with `npm start`
 
 ## Usage
 
